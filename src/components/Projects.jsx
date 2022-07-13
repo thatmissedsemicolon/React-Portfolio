@@ -62,7 +62,7 @@ const Projects = () => {
             </motion.div>
           ))}
         </motion.div>
-        {projects?.length > 6 && 
+        {projects?.projects?.length > 6 && 
           <div className='flex flex-wrap -mx-3 mb-6 mt-8 justify-center items-center'>
             <button type="button" className='border-2 border-[#64ffda] hover:bg-[#112240] text-[#64ffda] font-bold py-2 px-4 rounded inline-flex items-center text-xl h-14' onClick={() => navigate('/projects')}>Show More</button>
           </div>

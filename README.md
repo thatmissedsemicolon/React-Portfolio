@@ -6,6 +6,8 @@
 </h1>
 <p align="center">
   The first iteration of <a href="https://suryanshanand.com" target="_blank">suryanshanand.com</a> built with React.js leveraging Tailwind CSS.
+  
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/016be104-2071-44fd-956f-920f6de6bfce/deploy-status)](https://app.netlify.com/sites/suryportfoilio/deploys)
 </p>
 
 ![Suryansh - Google Chrome 7_13_2022 6_31_53 PM (2)](https://user-images.githubusercontent.com/77827345/178848259-bf62be16-34f2-4742-b3ee-9c4a175a255a.png)
